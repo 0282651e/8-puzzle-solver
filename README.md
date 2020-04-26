@@ -1,4 +1,5 @@
 # 8-puzzle-solver
+8-puzzle solver is a very popular problem in the field of problem solving in AI.
 This is an implementation of Breadth First Search, Depth First Search and A-star Search strategies in order to find the solution
 of 8 puzzle game. The 8 puzzle initial configuration is represented using 1D python list.To run the program:
 
